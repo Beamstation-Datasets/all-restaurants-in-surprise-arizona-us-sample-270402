@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Surprise, Arizona with a population of over 143k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Surprise, Arizona, US",
+  "export_job_id": "a1465eda-9108-4d70-8ff1-700a7992c939",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 270402,
+  "location_name": "Surprise",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-surprise-arizona-us-sample-270402",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/270402/beamstation_270402_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.56,
+  "sample_records": 28,
+  "sample_sha256": "5c01f3006571423c3009b5b9636dbd7be340171d7e4a2e54bb1d061115d4eb14",
+  "sample_size_bytes": 105534,
+  "total_records": 293,
+  "updated_at": "2026-04-07T12:48:25.122035+00:00"
+}
