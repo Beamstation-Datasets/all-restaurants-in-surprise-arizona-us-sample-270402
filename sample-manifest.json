@@ -1,12 +1,12 @@
 {
-  "export_job_id": "202970e7-a70f-41cd-9f0c-a427d899076a",
+  "export_job_id": "fde30662-ac55-4bde-8ebd-9c1a5363852d",
   "id_short": 270402,
-  "published_at": "2026-04-28T19:14:39Z",
+  "published_at": "2026-05-06T07:04:01Z",
   "repo_name": "all-restaurants-in-surprise-arizona-us-sample-270402",
   "sample_asset_name": "beamstation_270402_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/270402/beamstation_270402_restaurants-us-az_SAMPLE_DIST.csv",
-  "sample_records": 28,
-  "sample_sha256": "042a786df54df95a849553babea252d07683595605e1ba9b508ae9319dcaebc8",
-  "sample_size_bytes": 109566,
-  "total_records": 281
+  "sample_records": 30,
+  "sample_sha256": "3678f5b1fbfab5b2d9abcf96389cbe3e2ecec340e0459ffbf213a07c42765483",
+  "sample_size_bytes": 129136,
+  "total_records": 300
 }
