@@ -1,6 +1,6 @@
 # All Restaurants in Surprise, Arizona, US
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 30 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `270402` |
 | Location | Surprise |
 | Category | Restaurants |
-| Full dataset size | 281 records |
-| Free sample size | 28 records (9.96%) |
-| Last export | 2026-04-28T14:28:23.909587+00:00 |
+| Full dataset size | 300 records |
+| Free sample size | 30 records (10.0%) |
+| Last export | 2026-05-06T04:43:28.891554+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-surprise-arizona-us-sample-270402/releases/download/sample-latest/beamstation_270402_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
